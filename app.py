@@ -102,6 +102,7 @@ def post_review():
     new_review = {
         "_id": review_id,
         "date": review_date,
+        "listing_id": listing_id,
         "reviewer_id": reviewer_id,
         "reviewer_name": reviewer_name,
         "comments": comments
