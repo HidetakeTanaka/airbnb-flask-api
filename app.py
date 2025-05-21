@@ -91,6 +91,7 @@ def post_review():
     data = request.json
     listing_id = data.get("listing_id")
     reviewer_name = data.get("reviewer_name", "Anonymous")
+    reviewer_id = data.get("reviewer_id", "unknown_id")
     comments = data.get("comments", "")
     review_id = str(ObjectId())
     review_date = datetime.utcnow()
@@ -101,6 +102,7 @@ def post_review():
     new_review = {
         "_id": review_id,
         "date": review_date,
+        "reviewer_id": reviewer_id,
         "reviewer_name": reviewer_name,
         "comments": comments
     }
