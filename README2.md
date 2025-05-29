@@ -316,7 +316,7 @@ airbnb-flask-api/
 | Taha Asif.        | CLI Tool for Admins                             |
 
 ---
-## 📌 Notes
+## Notes
 - Your cloned project folder (e.g. `airbnb-flask-api`) will remain intact even if Docker is uninstalled.
 - If you used Docker with other projects, be cautious before deleting volumes or config files, as this may remove unrelated data.
 - For issues or questions, contact: Hidetake.Tanaka@hsrw.org 
