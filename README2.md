@@ -28,7 +28,7 @@ This project is a Flask-based RESTful microservice that provides Airbnb-style li
 ### 1. Clone this Repository
 
 ```bash
-git clone https://gitlab.com/pds-group04/airbnb-flask-api.git
+git clone https://gitlab.hsrw.eu/34254/airbnb-flask-api.git
 cd airbnb-flask-api
 ````
 
