@@ -23,7 +23,7 @@ This project is a Flask-based RESTful microservice that provides Airbnb-style li
 
 ---
 
-## 🧪 How to Run Locally
+## How to Run Locally
 
 ### 1. Clone this Repository
 
