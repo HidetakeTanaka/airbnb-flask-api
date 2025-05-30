@@ -1,0 +1,12 @@
+services:
+  - type: web
+    name: airbnb-flask-api
+    env: python
+    buildCommand: "pip install -r requirements.txt"
+    startCommand: "gunicorn app:app"
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.10
+      - key: MONGO_URI
+        value: mongodb+srv://kikyoumaru02:iTVGCtbBIcne2fXx@cluster0.yiutn.mongodb.net/
+    plan: free
