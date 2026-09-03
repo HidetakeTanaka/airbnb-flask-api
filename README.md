@@ -1,4 +1,4 @@
-# Project Overview: Airbnb Flask API Setup Guide (Ubuntu & macOS)
+Airbnb Flask API Setup Guide (Ubuntu & macOS)
 
 This project is a **Flask-based RESTful microservice** that provides Airbnb-style listing data from a **MongoDB Atlas** cloud database. It allows users to view, search, and add reviews to listings. The backend is designed to serve an **Android client** and integrates with a separate **authentication microservice**.
 
