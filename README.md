@@ -313,7 +313,7 @@ airbnb-flask-api/
 | Hidetake Tanaka   | Vacation Home Listings Microservice & Team Lead |
 | Ilia Pleshakov    | Android Smartphone App Client                   |
 | Pengjian Chen     | Authentication Microservice                     |
-| Taha Asif.        | CLI Tool for Admins                             |
+| Taha Asif         | CLI Tool for Admins                             |
 
 ---
 ## Notes
